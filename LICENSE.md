@@ -4,8 +4,6 @@
 *
 * While the following license is similar to the MIT open-source license,
 * it is NOT the MIT open source license or any other OSI-approved open-source license.
-******************************************************************************/
-/******************************************************************************
 *
 * Copyright (C) 2008-2022 Allegro DVT2.  All rights reserved.
 *
